@@ -25,11 +25,11 @@ const page = () => {
             </div>
             <div className="w-1/2 p-6 space-y-4">
               <div className="bg-[#A7CB4F] py-2.5 rounded-2xl text-center">
-                <p className="text-2xl text-black">revive_help@gmail.com</p>
+                <p className="text-2xl text-black">reviveEcoTech@gmail.com</p>
               </div>
               <div className="bg-[#A7CB4F] py-2.5 rounded-2xl text-center">
                 <p className="text-2xl text-black">
-                  Contact no: +91 9102949593
+                  Contact no: +91 6304218355
                 </p>
               </div>
               <form>

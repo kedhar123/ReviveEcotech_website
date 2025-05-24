@@ -7,7 +7,7 @@ const Footer = () => {
     <>
       <div className="min-h-screen p-8 m-10 bg-gray-100 rounded-2xl">
         <h1 className="text-center font-bold text-5xl mb-8">
-          <span className="font-bold text-black">Download</span>{" "}
+          <span className="font-bold text-black">Download</span>
           <span className="text-[#A7CB4F]">Our App</span>
         </h1>
         <div className="flex flex-col md:flex-row items-start md:items-center space-y-8 md:space-y-0 md:space-x-16 px-8 md:px-16">
