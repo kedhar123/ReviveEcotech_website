@@ -21,7 +21,7 @@ const Navbar = () => {
               Join Us
             </li>
           </Link>
-          <Link href="/contact">
+          <Link href="/contact-us">
             <li className="list-none font-bold text-[#000000] px-8 py-2">
               Contact
             </li>
